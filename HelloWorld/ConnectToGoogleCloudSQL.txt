@@ -1,0 +1,4 @@
+//Connect to Google Cloud SQL
+
+//Connect to DB
+	  // $conn = mysql_connect(":/cloudsql/phprocks13:store", "confi13@gmail.com", "ruju13@vm");
